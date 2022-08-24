@@ -1,0 +1,25 @@
+#imagem {
+    text-align: center;
+}
+
+#link {
+    text-align: center;
+}
+
+p {
+    color: red;
+    fon-size: 30;
+    text-align: left;
+}
+
+h1{
+   color: blue;
+   font-size: 50;
+   text-align: center;
+}
+
+h2{
+   color: green;
+   font-size: 40;
+   text-align: right;
+}
