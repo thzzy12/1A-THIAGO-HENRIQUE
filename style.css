@@ -21,5 +21,19 @@ h1{
 h2{
    color: green;
    font-size: 40;
-   text-align: right;
+   text-align: center;
+}
+
+.mylikes{
+   color: purple;
+   font-size: 50;
+   text-align: left;
+
+}
+
+.mysubjects {
+  color: purple;
+  font-size: 50;
+  text-align: center;
+
 }
